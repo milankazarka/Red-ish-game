@@ -1,0 +1,500 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		271110671F3BB73F008C4C22 /* milan_agency_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 271110661F3BB73F008C4C22 /* milan_agency_logo.png */; };
+		271110691F3C8D25008C4C22 /* logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 271110681F3C8D24008C4C22 /* logo.jpg */; };
+		2726F1C51F3F5DE700BF0109 /* click 3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2726F1B81F3F5DE700BF0109 /* click 3.wav */; };
+		2726F1C61F3F5DE700BF0109 /* lose 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2726F1B91F3F5DE700BF0109 /* lose 2.wav */; };
+		2726F1C91F3F5DE700BF0109 /* minimalist win.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2726F1BC1F3F5DE700BF0109 /* minimalist win.wav */; };
+		2726F1CA1F3F5DE700BF0109 /* win 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2726F1BD1F3F5DE700BF0109 /* win 2.wav */; };
+		2726F1CF1F3F5DE700BF0109 /* win or lose 1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2726F1C21F3F5DE700BF0109 /* win or lose 1.wav */; };
+		2726F1D11F3F67D600BF0109 /* click.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2726F1D01F3F67D600BF0109 /* click.wav */; };
+		27554A68284F61B9009B866B /* redish_1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 27554A67284F61B9009B866B /* redish_1024.png */; };
+		27554A6B284F624B009B866B /* redish_120.png in Resources */ = {isa = PBXBuildFile; fileRef = 27554A69284F624B009B866B /* redish_120.png */; };
+		27554A6C284F624C009B866B /* redish_180.png in Resources */ = {isa = PBXBuildFile; fileRef = 27554A6A284F624B009B866B /* redish_180.png */; };
+		27554A6E284F6331009B866B /* redish_80.png in Resources */ = {isa = PBXBuildFile; fileRef = 27554A6D284F6331009B866B /* redish_80.png */; };
+		27554A73284F6396009B866B /* redish_60.png in Resources */ = {isa = PBXBuildFile; fileRef = 27554A6F284F6396009B866B /* redish_60.png */; };
+		27554A74284F6396009B866B /* redish_40.png in Resources */ = {isa = PBXBuildFile; fileRef = 27554A70284F6396009B866B /* redish_40.png */; };
+		27554A75284F6396009B866B /* redish_87.png in Resources */ = {isa = PBXBuildFile; fileRef = 27554A71284F6396009B866B /* redish_87.png */; };
+		27554A76284F6396009B866B /* redish_58.png in Resources */ = {isa = PBXBuildFile; fileRef = 27554A72284F6396009B866B /* redish_58.png */; };
+		275B9B571F39273D00B80175 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 275B9B561F39273D00B80175 /* main.m */; };
+		275B9B5A1F39273D00B80175 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 275B9B591F39273D00B80175 /* AppDelegate.m */; };
+		275B9B5D1F39273D00B80175 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 275B9B5C1F39273D00B80175 /* ViewController.m */; };
+		275B9B601F39273D00B80175 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 275B9B5E1F39273D00B80175 /* Main.storyboard */; };
+		275B9B621F39273D00B80175 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 275B9B611F39273D00B80175 /* Assets.xcassets */; };
+		275B9B651F39273D00B80175 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 275B9B631F39273D00B80175 /* LaunchScreen.storyboard */; };
+		275B9B6D1F39E26200B80175 /* pocket_watch_click_open.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 275B9B6C1F39E26200B80175 /* pocket_watch_click_open.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		271110661F3BB73F008C4C22 /* milan_agency_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = milan_agency_logo.png; sourceTree = "<group>"; };
+		271110681F3C8D24008C4C22 /* logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = logo.jpg; sourceTree = "<group>"; };
+		2726F1B81F3F5DE700BF0109 /* click 3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "click 3.wav"; sourceTree = "<group>"; };
+		2726F1B91F3F5DE700BF0109 /* lose 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "lose 2.wav"; sourceTree = "<group>"; };
+		2726F1BC1F3F5DE700BF0109 /* minimalist win.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "minimalist win.wav"; sourceTree = "<group>"; };
+		2726F1BD1F3F5DE700BF0109 /* win 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "win 2.wav"; sourceTree = "<group>"; };
+		2726F1C21F3F5DE700BF0109 /* win or lose 1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "win or lose 1.wav"; sourceTree = "<group>"; };
+		2726F1D01F3F67D600BF0109 /* click.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = click.wav; sourceTree = "<group>"; };
+		27554A67284F61B9009B866B /* redish_1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redish_1024.png; sourceTree = "<group>"; };
+		27554A69284F624B009B866B /* redish_120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redish_120.png; sourceTree = "<group>"; };
+		27554A6A284F624B009B866B /* redish_180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redish_180.png; sourceTree = "<group>"; };
+		27554A6D284F6331009B866B /* redish_80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redish_80.png; sourceTree = "<group>"; };
+		27554A6F284F6396009B866B /* redish_60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redish_60.png; sourceTree = "<group>"; };
+		27554A70284F6396009B866B /* redish_40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redish_40.png; sourceTree = "<group>"; };
+		27554A71284F6396009B866B /* redish_87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redish_87.png; sourceTree = "<group>"; };
+		27554A72284F6396009B866B /* redish_58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redish_58.png; sourceTree = "<group>"; };
+		275B9B521F39273D00B80175 /* Red'ish?.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Red'ish?.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		275B9B561F39273D00B80175 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		275B9B581F39273D00B80175 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		275B9B591F39273D00B80175 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		275B9B5B1F39273D00B80175 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		275B9B5C1F39273D00B80175 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		275B9B5F1F39273D00B80175 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		275B9B611F39273D00B80175 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		275B9B641F39273D00B80175 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		275B9B661F39273D00B80175 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		275B9B6C1F39E26200B80175 /* pocket_watch_click_open.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pocket_watch_click_open.mp3; path = music/pocket_watch_click_open.mp3; sourceTree = "<group>"; };
+		356B1A0819452C2AF311AA88 /* Pods-gridmind.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gridmind.debug.xcconfig"; path = "Pods/Target Support Files/Pods-gridmind/Pods-gridmind.debug.xcconfig"; sourceTree = "<group>"; };
+		C93C9A0CA7A9DD918F88B04C /* Pods-gridmind.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gridmind.release.xcconfig"; path = "Pods/Target Support Files/Pods-gridmind/Pods-gridmind.release.xcconfig"; sourceTree = "<group>"; };
+		CC30DB6FEF15BE50EEA2AE2B /* libPods-gridmind.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-gridmind.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		275B9B4F1F39273D00B80175 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		271110291F39FE97008C4C22 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				27554A70284F6396009B866B /* redish_40.png */,
+				27554A72284F6396009B866B /* redish_58.png */,
+				27554A6F284F6396009B866B /* redish_60.png */,
+				27554A71284F6396009B866B /* redish_87.png */,
+				27554A6D284F6331009B866B /* redish_80.png */,
+				27554A69284F624B009B866B /* redish_120.png */,
+				27554A6A284F624B009B866B /* redish_180.png */,
+				27554A67284F61B9009B866B /* redish_1024.png */,
+			);
+			path = icons;
+			sourceTree = "<group>";
+		};
+		271110441F3B58E7008C4C22 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CC30DB6FEF15BE50EEA2AE2B /* libPods-gridmind.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		271110651F3BB73F008C4C22 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				271110681F3C8D24008C4C22 /* logo.jpg */,
+				271110661F3BB73F008C4C22 /* milan_agency_logo.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		2726F1B51F3F5DE700BF0109 /* jaro */ = {
+			isa = PBXGroup;
+			children = (
+				2726F1D01F3F67D600BF0109 /* click.wav */,
+				2726F1B81F3F5DE700BF0109 /* click 3.wav */,
+				2726F1B91F3F5DE700BF0109 /* lose 2.wav */,
+				2726F1BC1F3F5DE700BF0109 /* minimalist win.wav */,
+				2726F1BD1F3F5DE700BF0109 /* win 2.wav */,
+				2726F1C21F3F5DE700BF0109 /* win or lose 1.wav */,
+			);
+			name = jaro;
+			path = music/jaro;
+			sourceTree = "<group>";
+		};
+		275B9B491F39273D00B80175 = {
+			isa = PBXGroup;
+			children = (
+				275B9B541F39273D00B80175 /* gridmind */,
+				275B9B531F39273D00B80175 /* Products */,
+				271110441F3B58E7008C4C22 /* Frameworks */,
+				A7083D417DC13983979235F4 /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		275B9B531F39273D00B80175 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				275B9B521F39273D00B80175 /* Red'ish?.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		275B9B541F39273D00B80175 /* gridmind */ = {
+			isa = PBXGroup;
+			children = (
+				2726F1B51F3F5DE700BF0109 /* jaro */,
+				271110651F3BB73F008C4C22 /* images */,
+				271110291F39FE97008C4C22 /* icons */,
+				275B9B6C1F39E26200B80175 /* pocket_watch_click_open.mp3 */,
+				275B9B581F39273D00B80175 /* AppDelegate.h */,
+				275B9B591F39273D00B80175 /* AppDelegate.m */,
+				275B9B5B1F39273D00B80175 /* ViewController.h */,
+				275B9B5C1F39273D00B80175 /* ViewController.m */,
+				275B9B5E1F39273D00B80175 /* Main.storyboard */,
+				275B9B611F39273D00B80175 /* Assets.xcassets */,
+				275B9B631F39273D00B80175 /* LaunchScreen.storyboard */,
+				275B9B661F39273D00B80175 /* Info.plist */,
+				275B9B551F39273D00B80175 /* Supporting Files */,
+			);
+			path = gridmind;
+			sourceTree = "<group>";
+		};
+		275B9B551F39273D00B80175 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				275B9B561F39273D00B80175 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A7083D417DC13983979235F4 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				356B1A0819452C2AF311AA88 /* Pods-gridmind.debug.xcconfig */,
+				C93C9A0CA7A9DD918F88B04C /* Pods-gridmind.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		275B9B511F39273D00B80175 /* gridmind */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 275B9B691F39273D00B80175 /* Build configuration list for PBXNativeTarget "gridmind" */;
+			buildPhases = (
+				487B918ECF279CA032615795 /* [CP] Check Pods Manifest.lock */,
+				275B9B4E1F39273D00B80175 /* Sources */,
+				275B9B4F1F39273D00B80175 /* Frameworks */,
+				275B9B501F39273D00B80175 /* Resources */,
+				B20D84A3AD39D4C1025D6A46 /* [CP] Embed Pods Frameworks */,
+				3545CC64A99842CA60125A7C /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = gridmind;
+			productName = gridmind;
+			productReference = 275B9B521F39273D00B80175 /* Red'ish?.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		275B9B4A1F39273D00B80175 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Milan Kazarka";
+				TargetAttributes = {
+					275B9B511F39273D00B80175 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = XXT8SFXT64;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 275B9B4D1F39273D00B80175 /* Build configuration list for PBXProject "gridmind" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				en,
+				Base,
+			);
+			mainGroup = 275B9B491F39273D00B80175;
+			productRefGroup = 275B9B531F39273D00B80175 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				275B9B511F39273D00B80175 /* gridmind */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		275B9B501F39273D00B80175 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				275B9B651F39273D00B80175 /* LaunchScreen.storyboard in Resources */,
+				275B9B621F39273D00B80175 /* Assets.xcassets in Resources */,
+				27554A74284F6396009B866B /* redish_40.png in Resources */,
+				271110691F3C8D25008C4C22 /* logo.jpg in Resources */,
+				2726F1C91F3F5DE700BF0109 /* minimalist win.wav in Resources */,
+				27554A68284F61B9009B866B /* redish_1024.png in Resources */,
+				2726F1C61F3F5DE700BF0109 /* lose 2.wav in Resources */,
+				275B9B601F39273D00B80175 /* Main.storyboard in Resources */,
+				2726F1CA1F3F5DE700BF0109 /* win 2.wav in Resources */,
+				275B9B6D1F39E26200B80175 /* pocket_watch_click_open.mp3 in Resources */,
+				27554A6C284F624C009B866B /* redish_180.png in Resources */,
+				2726F1CF1F3F5DE700BF0109 /* win or lose 1.wav in Resources */,
+				27554A6E284F6331009B866B /* redish_80.png in Resources */,
+				2726F1C51F3F5DE700BF0109 /* click 3.wav in Resources */,
+				2726F1D11F3F67D600BF0109 /* click.wav in Resources */,
+				27554A73284F6396009B866B /* redish_60.png in Resources */,
+				27554A6B284F624B009B866B /* redish_120.png in Resources */,
+				271110671F3BB73F008C4C22 /* milan_agency_logo.png in Resources */,
+				27554A76284F6396009B866B /* redish_58.png in Resources */,
+				27554A75284F6396009B866B /* redish_87.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3545CC64A99842CA60125A7C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-gridmind/Pods-gridmind-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		487B918ECF279CA032615795 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		B20D84A3AD39D4C1025D6A46 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-gridmind/Pods-gridmind-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		275B9B4E1F39273D00B80175 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				275B9B5D1F39273D00B80175 /* ViewController.m in Sources */,
+				275B9B5A1F39273D00B80175 /* AppDelegate.m in Sources */,
+				275B9B571F39273D00B80175 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		275B9B5E1F39273D00B80175 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				275B9B5F1F39273D00B80175 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		275B9B631F39273D00B80175 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				275B9B641F39273D00B80175 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		275B9B671F39273D00B80175 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		275B9B681F39273D00B80175 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		275B9B6A1F39273D00B80175 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 356B1A0819452C2AF311AA88 /* Pods-gridmind.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 2001;
+				DEVELOPMENT_TEAM = XXT8SFXT64;
+				INFOPLIST_FILE = gridmind/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kazarka.redish;
+				PRODUCT_NAME = "Red'ish?";
+			};
+			name = Debug;
+		};
+		275B9B6B1F39273D00B80175 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C93C9A0CA7A9DD918F88B04C /* Pods-gridmind.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 2001;
+				DEVELOPMENT_TEAM = XXT8SFXT64;
+				INFOPLIST_FILE = gridmind/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kazarka.redish;
+				PRODUCT_NAME = "Red'ish?";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		275B9B4D1F39273D00B80175 /* Build configuration list for PBXProject "gridmind" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				275B9B671F39273D00B80175 /* Debug */,
+				275B9B681F39273D00B80175 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		275B9B691F39273D00B80175 /* Build configuration list for PBXNativeTarget "gridmind" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				275B9B6A1F39273D00B80175 /* Debug */,
+				275B9B6B1F39273D00B80175 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 275B9B4A1F39273D00B80175 /* Project object */;
+}
